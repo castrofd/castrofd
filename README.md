@@ -15,3 +15,5 @@
   
   <h3><strong>Sou Analista de Geotecnologias Pleno</strong>, mais sempre fiu apaixonado por Tecnologia e Programação, sou Técnico em Informática e estou me graduando em Geografia pela Cruzeiro do Sul. Sonho em desenvolver minha carreira como Desenvolvedor Front-end, e estou me dedicando nos estudos para que isso aconteca.</h3>
 </div>
+
+![Snake animation](https://github.com/castrofd)
