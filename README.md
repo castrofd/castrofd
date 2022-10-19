@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Sou o Felipe Duarte de Castro 🤓🙏
 
-<!--
-**castrofd/castrofd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/castrofd">
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=castrofd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castrofd&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<hr>
+<div>
+  <a href="https://www.linkedin.com/in/felipe-castro-fdc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:fduarte548@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+  <hr>
+<div>
+  
+  <h3><strong>Sou Analista de Geotecnologias Pleno</strong>, mais sempre fiu apaixonado por Tecnologia e Programação, sou Técnico em Informática e estou me graduando em Geografia pela Cruzeiro do Sul. Sonho em desenvolver minha carreira como Desenvolvedor Front-end, e estou me dedicando nos estudos para que isso aconteca.</h3>
+</div>
