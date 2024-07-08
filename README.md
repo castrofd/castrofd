@@ -13,7 +13,7 @@
   <hr>
 <div>
   
-  <h3><strong>Sou Analista de Geotecnologias Pleno</strong>, mais sempre fui apaixonado por Tecnologia e Programação, sou Técnico em Informática e estou me graduando em Geografia pela Cruzeiro do Sul. Sonho em desenvolver minha carreira como Desenvolvedor, e estou me dedicando nos estudos para que isso aconteça.</h3>
+  <h3><strong>Sou Analista de Geotecnologias Senior</strong>, mais sempre fui apaixonado por Tecnologia e Programação, sou Técnico em Informática e estou me graduando em Geografia pela Cruzeiro do Sul. Sonho em desenvolver minha carreira como Desenvolvedor, e estou me dedicando nos estudos para que isso aconteça.</h3>
 </div>
 
 ![snake gif](https://github.com/castrofd/castrofd/blob/output/github-contribution-grid-snake.svg)
